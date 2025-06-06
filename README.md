@@ -37,17 +37,6 @@ Product = 4 × 5 × 6 × 7 = 840
 * Multiply each number and accumulate the result in a `result` variable initialized to 1.
 * Print the final product.
 
-## 🧾 Code
-
-```python
-a = int(input("Enter starting number (a): "))
-b = int(input("Enter how many numbers to multiply (b): "))
-result = 1
-for i in range(a + 1, a + b + 1):
-    result = result * i
-print(result)
-```
-
 ## 🛠️ How to Run
 
 1. Save the code in a file, e.g., `product_after_x.py`
