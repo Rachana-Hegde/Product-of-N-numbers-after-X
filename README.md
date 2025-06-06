@@ -52,23 +52,19 @@ print(result)
 
 1. Save the code in a file, e.g., `product_after_x.py`
 2. Run the script using Python:
-
 ```bash
 python product_after_x.py
 ```
-
 3. Enter values for `a` and `b` as prompted.
 
 ## 🎯 Use Case
 
 * Great for beginners learning:
-
   * `for` loops
   * Range and arithmetic operations
   * User input handling
 
 * Can be extended to calculate:
-
   * Sum instead of product
   * Only even/odd products
   * Products in reverse order
@@ -76,7 +72,4 @@ python product_after_x.py
 ## 📬 Contact  
 
 For any inquiries or feedback, feel free to reach out:    
-🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde)
----
-
-Let me know if you'd like a version that avoids overflow for large numbers or includes input validation!
+🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde)  
