@@ -77,11 +77,10 @@ python product_after_x.py
   * Only even/odd products
   * Products in reverse order
 
-## 📄 License
+## 📬 Contact  
 
-This mini project is open-source under the **MIT License**.
-Feel free to use, share, and modify it for learning purposes.
-
+For any inquiries or feedback, feel free to reach out:    
+🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde)
 ---
 
 Let me know if you'd like a version that avoids overflow for large numbers or includes input validation!
