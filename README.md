@@ -1,7 +1,3 @@
-Here’s a simple and clear **README.md** for your **“Product of N Numbers After X”** Python program:
-
----
-
 # ✖️ Product of N Numbers After X – Python Program
 
 This is a small Python program that calculates the **product of `N` consecutive numbers after a given number `X`**. It’s useful for understanding loops and arithmetic operations in Python.
